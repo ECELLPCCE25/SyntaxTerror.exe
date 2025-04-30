@@ -1,0 +1,3 @@
+[submodule "schedule-zen-frontend"]
+	path = schedule-zen-frontend
+	url = https://github.com/Thehussain17/schedule-zen-frontend.git
